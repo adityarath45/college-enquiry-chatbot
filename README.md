@@ -48,4 +48,4 @@ Open `faqs.csv` in Excel/Notepad, edit or add rows (`question,answer,category`),
 - Similarity score is a matching score, not a probability of being correct.
 
 ## Live demo
-(Add your Streamlit link here after deployment)
+https://college-enquiry-chatbot-3fwg2zamf3vxu4t3epyacg.streamlit.app/
